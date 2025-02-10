@@ -25,11 +25,10 @@ This is a **full-stack poll creation and voting website** built using the **MERN
    ```env
    PORT=8000
    MONGO_URI=your_mongodb_connection_string
-   JWT_SECRET=your_jwt_secret
    ```
 4. Start the backend server:
    ```sh
-   npm start
+   npm run dev
    ```
 
 ### 2️⃣ Frontend Setup (Client)
